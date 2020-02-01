@@ -1,0 +1,37 @@
+
+.bar{
+    min-width: 400px;
+}
+.percent {
+    height: 20px;
+    background:  orange;
+}
+
+.color1 {
+  background:  orange;
+}
+
+.color2 {
+  background:  greenyellow;
+}
+/*$$
+.percent1:nth-child{
+    background:  orange;
+}
+.percent3:nth-child{
+    background:  orange;
+}
+.percent5:nth-child{
+    background:  orange;
+}
+
+.percent0:nth-child{
+    backgrounds: greenyellow;
+}
+.percent2:nth-child{
+    backgrounds: greenyellow;
+}
+.percent4:nth-child{
+    backgrounds: greenyellow;
+}
+*/
